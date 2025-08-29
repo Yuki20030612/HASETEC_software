@@ -1,0 +1,154 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/20.1/quartus/bin64/pulse_Td/simulation/qsim
+Ehard_block
+Z1 w1756376209
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx11 cyclone10lp 21 cyclone10lp_atom_pack 0 22 hEmQHzKVEGB^[hElXWL>`1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z7 DPx11 cyclone10lp 22 cyclone10lp_components 0 22 P>e95jJ7U1K9acGdeLG`g2
+!i122 6
+R0
+Z8 8pulse_Td.vho
+Z9 Fpulse_Td.vho
+l0
+L35 1
+VnoSfVj?fNjXHhOP5_^Ul[2
+!s100 Sn11NdfJ;?D78I?HD]9>l1
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1756376210
+!i10b 1
+Z12 !s108 1756376210.000000
+Z13 !s90 -work|work|pulse_Td.vho|
+Z14 !s107 pulse_Td.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 noSfVj?fNjXHhOP5_^Ul[2
+!i122 6
+l65
+L51 20
+Via>5o7W??azG@W@@eFOTF0
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Epulse_td
+R1
+R3
+R7
+R2
+Z17 DPx6 altera 11 dffeas_pack 0 22 dc5N=DKXMMTVYdUQ@D3FA2
+R4
+R5
+R6
+Z18 DPx6 altera 28 altera_primitives_components 0 22 ca:ehlQAg4;_gVV:^8MAg3
+!i122 6
+R0
+R8
+R9
+l0
+L80 1
+VUJBDiOioC75_4gUiGZeK^1
+!s100 U6G2N^1oS7g]5aA^aY1oZ1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R3
+R7
+R2
+R17
+R4
+R5
+R6
+R18
+DEx4 work 8 pulse_td 0 22 UJBDiOioC75_4gUiGZeK^1
+!i122 6
+l220
+L96 1653
+Vk_nRXW9DZGm4d@j8j]6FK1
+!s100 Y7Z`Y54IV?z<C<N3bCzDA0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Epulse_td_vhd_vec_tst
+R1
+R5
+R6
+!i122 7
+R0
+Z19 8Waveform.vwf.vht
+Z20 FWaveform.vwf.vht
+l0
+L32 1
+V<CQT91QA]FPDTA8I@TANV0
+!s100 8joN[5UU]BaLZ07:@d@==2
+R10
+32
+R11
+!i10b 1
+R12
+Z21 !s90 -work|work|Waveform.vwf.vht|
+!s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
+Apulse_td_arch
+R5
+R6
+Z22 DEx4 work 20 pulse_td_vhd_vec_tst 0 22 <CQT91QA]FPDTA8I@TANV0
+!i122 7
+l49
+Z23 L34 37
+VM6iff3`dKa>f01BN55h:L2
+!s100 ICFMcDCVzR?gm2V<a:@FA3
+R10
+32
+R11
+!i10b 1
+R12
+R21
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
